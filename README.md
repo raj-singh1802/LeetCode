@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/raj-singh1802/LeetCode/tree/master/0027-remove-element) |
+| [0921-spiral-matrix-iii](https://github.com/raj-singh1802/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/raj-singh1802/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -42,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/raj-singh1802/LeetCode/tree/master/0273-integer-to-english-words) |
+## Matrix
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/raj-singh1802/LeetCode/tree/master/0921-spiral-matrix-iii) |
+## Simulation
+|  |
+| ------- |
+| [0921-spiral-matrix-iii](https://github.com/raj-singh1802/LeetCode/tree/master/0921-spiral-matrix-iii) |
 <!---LeetCode Topics End-->
