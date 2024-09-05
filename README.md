@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0999-regions-cut-by-slashes](https://github.com/raj-singh1802/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raj-singh1802/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/raj-singh1802/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2155-find-missing-observations](https://github.com/raj-singh1802/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/raj-singh1802/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0273-integer-to-english-words](https://github.com/raj-singh1802/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/raj-singh1802/LeetCode/tree/master/0870-magic-squares-in-grid) |
+| [2155-find-missing-observations](https://github.com/raj-singh1802/LeetCode/tree/master/2155-find-missing-observations) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-spiral-matrix-iii](https://github.com/raj-singh1802/LeetCode/tree/master/0921-spiral-matrix-iii) |
+| [2155-find-missing-observations](https://github.com/raj-singh1802/LeetCode/tree/master/2155-find-missing-observations) |
 ## Depth-First Search
 |  |
 | ------- |
