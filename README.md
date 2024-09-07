@@ -77,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/raj-singh1802/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raj-singh1802/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0999-regions-cut-by-slashes](https://github.com/raj-singh1802/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raj-singh1802/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 ## Union Find
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/raj-singh1802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/raj-singh1802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -123,5 +127,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raj-singh1802/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
