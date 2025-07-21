@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/raj-singh1802/LeetCode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/raj-singh1802/LeetCode/tree/master/0035-search-insert-position) |
 | [0624-maximum-distance-in-arrays](https://github.com/raj-singh1802/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/raj-singh1802/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/raj-singh1802/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/raj-singh1802/LeetCode/tree/master/0035-search-insert-position) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/raj-singh1802/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/raj-singh1802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
