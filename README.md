@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/raj-singh1802/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/raj-singh1802/LeetCode/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/raj-singh1802/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/raj-singh1802/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/raj-singh1802/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/raj-singh1802/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/raj-singh1802/LeetCode/tree/master/0067-add-binary) |
 | [0273-integer-to-english-words](https://github.com/raj-singh1802/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/raj-singh1802/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2155-find-missing-observations](https://github.com/raj-singh1802/LeetCode/tree/master/2155-find-missing-observations) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/raj-singh1802/LeetCode/tree/master/0067-add-binary) |
 | [0921-spiral-matrix-iii](https://github.com/raj-singh1802/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [2155-find-missing-observations](https://github.com/raj-singh1802/LeetCode/tree/master/2155-find-missing-observations) |
 ## Depth-First Search
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1813-maximum-erasure-value](https://github.com/raj-singh1802/LeetCode/tree/master/1813-maximum-erasure-value) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/raj-singh1802/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
