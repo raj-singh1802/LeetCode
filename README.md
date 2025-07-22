@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/raj-singh1802/LeetCode/tree/master/0058-length-of-last-word) |
 | [0273-integer-to-english-words](https://github.com/raj-singh1802/LeetCode/tree/master/0273-integer-to-english-words) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/raj-singh1802/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/raj-singh1802/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
