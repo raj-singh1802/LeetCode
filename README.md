@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/raj-singh1802/LeetCode/tree/master/0921-spiral-matrix-iii) |
 | [0999-regions-cut-by-slashes](https://github.com/raj-singh1802/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raj-singh1802/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [1813-maximum-erasure-value](https://github.com/raj-singh1802/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/raj-singh1802/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2155-find-missing-observations](https://github.com/raj-singh1802/LeetCode/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/raj-singh1802/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/raj-singh1802/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/raj-singh1802/LeetCode/tree/master/0999-regions-cut-by-slashes) |
+| [1813-maximum-erasure-value](https://github.com/raj-singh1802/LeetCode/tree/master/1813-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/raj-singh1802/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/raj-singh1802/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raj-singh1802/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raj-singh1802/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/raj-singh1802/LeetCode/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
