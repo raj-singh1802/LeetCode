@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/raj-singh1802/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/raj-singh1802/LeetCode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/raj-singh1802/LeetCode/tree/master/0069-sqrtx) |
 | [0273-integer-to-english-words](https://github.com/raj-singh1802/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/raj-singh1802/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2155-find-missing-observations](https://github.com/raj-singh1802/LeetCode/tree/master/2155-find-missing-observations) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/raj-singh1802/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/raj-singh1802/LeetCode/tree/master/0069-sqrtx) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/raj-singh1802/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/raj-singh1802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
