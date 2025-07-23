@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/raj-singh1802/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/raj-singh1802/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/raj-singh1802/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/raj-singh1802/LeetCode/tree/master/0070-climbing-stairs) |
 | [0273-integer-to-english-words](https://github.com/raj-singh1802/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0870-magic-squares-in-grid](https://github.com/raj-singh1802/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [2155-find-missing-observations](https://github.com/raj-singh1802/LeetCode/tree/master/2155-find-missing-observations) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/raj-singh1802/LeetCode/tree/master/0070-climbing-stairs) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/raj-singh1802/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Linked List
 |  |
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/raj-singh1802/LeetCode/tree/master/0067-add-binary) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/raj-singh1802/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
