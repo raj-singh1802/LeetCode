@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/raj-singh1802/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raj-singh1802/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sliding Window
