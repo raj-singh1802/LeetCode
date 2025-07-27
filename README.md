@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/raj-singh1802/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/raj-singh1802/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/raj-singh1802/LeetCode/tree/master/0101-symmetric-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/raj-singh1802/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raj-singh1802/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/raj-singh1802/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/raj-singh1802/LeetCode/tree/master/0101-symmetric-tree) |
 | [0999-regions-cut-by-slashes](https://github.com/raj-singh1802/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/raj-singh1802/LeetCode/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/raj-singh1802/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/raj-singh1802/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/raj-singh1802/LeetCode/tree/master/0101-symmetric-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/raj-singh1802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Design
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/raj-singh1802/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/raj-singh1802/LeetCode/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/raj-singh1802/LeetCode/tree/master/0101-symmetric-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/raj-singh1802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Data Stream
