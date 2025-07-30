@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raj-singh1802/LeetCode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/raj-singh1802/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/raj-singh1802/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/raj-singh1802/LeetCode/tree/master/0069-sqrtx) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raj-singh1802/LeetCode/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/raj-singh1802/LeetCode/tree/master/0273-integer-to-english-words) |
 ## Matrix
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raj-singh1802/LeetCode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/raj-singh1802/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/raj-singh1802/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/raj-singh1802/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
