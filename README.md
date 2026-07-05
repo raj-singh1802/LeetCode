@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/raj-singh1802/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/raj-singh1802/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/raj-singh1802/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/raj-singh1802/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0624-maximum-distance-in-arrays](https://github.com/raj-singh1802/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/raj-singh1802/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0870-magic-squares-in-grid](https://github.com/raj-singh1802/LeetCode/tree/master/0870-magic-squares-in-grid) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/raj-singh1802/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0870-magic-squares-in-grid](https://github.com/raj-singh1802/LeetCode/tree/master/0870-magic-squares-in-grid) |
 | [0999-regions-cut-by-slashes](https://github.com/raj-singh1802/LeetCode/tree/master/0999-regions-cut-by-slashes) |
 | [1813-maximum-erasure-value](https://github.com/raj-singh1802/LeetCode/tree/master/1813-maximum-erasure-value) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/raj-singh1802/LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/raj-singh1802/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/raj-singh1802/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/raj-singh1802/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 ## Greedy
 |  |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raj-singh1802/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/raj-singh1802/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/raj-singh1802/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/raj-singh1802/LeetCode/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -138,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/raj-singh1802/LeetCode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/raj-singh1802/LeetCode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/raj-singh1802/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/raj-singh1802/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/raj-singh1802/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
